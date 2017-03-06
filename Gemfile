@@ -52,6 +52,7 @@ group :development do
   gem 'aasm'
   gem 'carrierwave-qiniu'
   gem 'qiniu-rs'
+  gem 'figaro'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -50,6 +50,8 @@ group :development do
   gem 'mini_magick'
   gem 'letter_opener', group: :development
   gem 'aasm'
+  gem 'carrierwave-qiniu'
+  gem 'qiniu-rs'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
